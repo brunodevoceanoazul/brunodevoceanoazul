@@ -29,6 +29,10 @@ The first two repositories are forks of personal projects from my [BrunoBDevOcea
 
 Professional entries link to public case material. The runnable code above comes from personal projects or independent exercises.
 
+## Awards and press
+
+[Team awards and technical context](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/premios.md) · [Bilingual press timeline](https://brunodevoceanoazul.github.io/portfolio/en/press/)
+
 ## Em português
 
 Sou desenvolvedor full stack e líder de produto e tecnologia. Minha trajetória reúne desenvolvimento web, integrações, liderança técnica e análise de dados. Hoje quero aplicar essa experiência a produtos de saúde mental, educação e impacto social.
