@@ -13,7 +13,7 @@ I build web products and lead teams from discovery to delivery. I work across Ty
 | --- | --- |
 | [Daily Diet](https://github.com/brunodevoceanoazul/dailydiet-rocketseat-desafio-2) | Full-stack training project with React, TypeScript, Fastify, Knex and SQLite. The review guide points to session-scoped API queries, migrations and the React interface. |
 | [DDD — inventory domain](https://github.com/brunodevoceanoazul/DDD) | TypeScript practice with domain entities, repository interfaces and inventory use cases tested with Vitest. |
-| [Request workflow](demonstracao/) | An independent portfolio exercise with synthetic data, access checks, state transitions and tests. |
+| [Request workflow](https://github.com/brunodevoceanoazul/brunodevoceanoazul/tree/main/demonstracao) | An independent portfolio exercise with synthetic data, access checks, state transitions and tests. |
 | [SQL analysis sample](https://brunodevoceanoazul.github.io/portfolio/en/data/#sample) | Synthetic dataset, SQL query, completion-rate calculation and downloadable CSV. |
 
 The first two repositories are forks of personal projects from my [BrunoBDevOceanoAzul account](https://github.com/BrunoBDevOceanoAzul). Their original commit history and contribution links are preserved.
