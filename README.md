@@ -11,10 +11,10 @@ I turn product requirements into software and lead the teams delivering it. My 1
 
 | Product | My engineering contribution | Technologies |
 | --- | --- | --- |
-| **ÍRIS** | Founder and tech lead. Product pivot, API and web application development, data integrations, and consent workflows. [Public product update](https://www.linkedin.com/feed/update/urn:li:activity:7519461241631797248/) | TypeScript, NestJS, Next.js, Drizzle, PostgreSQL, AWS |
-| **Periscópio** | Tech lead and full-stack developer. School-to-healthcare referral workflows, forms, permissions, case history, and data modeling. [MVP write-up](https://www.linkedin.com/feed/update/urn:li:activity:7519483771901865985/) | TypeScript, Next.js, Fastify, Drizzle, PostgreSQL |
+| **ÍRIS** | Founder and tech lead. Product pivot, Development of a modular NestJS monolith, web application, data integrations, and consent workflows. [Public product update](https://www.linkedin.com/feed/update/urn:li:activity:7519461241631797248/) | TypeScript, NestJS, Next.js, Drizzle, PostgreSQL, AWS |
+| **Periscópio** | Tech lead and full-stack developer. School-to-healthcare referral workflows, forms, permissions, case history, and data modeling. [MVP write-up](https://www.linkedin.com/feed/update/urn:li:activity:7519483771901865985/) | TypeScript, Next.js, Fastify monolith, Drizzle, PostgreSQL |
 | **HIVIUM / Sócio do Tabuleiro** | Founder and former CTO. Platform development, logistics and digital contract integrations, and architecture for the successor platform. [Beta announcement](https://www.linkedin.com/feed/update/urn:li:activity:7440522540940177408/) | React, APIs, GCP, product architecture |
-| **Radar Jurídico** | Python backend, legal data integrations, query strategy, and data modeling for an internal product. [Technical overview](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md) | Python, APIs, SQL |
+| **Radar Jurídico** | Python backend, legal data integrations, query strategy, and data modeling for an internal product. [Technical overview](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md) | Python, FastAPI, SQLAlchemy, PostgreSQL |
 | **Oceano Azul** | Founder and tech lead. Requirements, software architecture, and development for client and own-product work. [Website](https://oceanoazul.dev.br/) | Next.js, React, TypeScript |
 
 [Read the technical case studies](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md)
@@ -22,6 +22,16 @@ I turn product requirements into software and lead the teams delivering it. My 1
 ## Engineering portfolio
 
 [Complete source of this bilingual portfolio](https://github.com/brunodevoceanoazul/portfolio) · [Product engineering cases](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md)
+
+## Implementation experience
+
+- **ÍRIS** · A modular NestJS monolith composed of application modules, a Next.js web interface, persistence, permissions, and data integrations.
+- **Periscópio** · A Fastify backend monolith supporting digital forms, case transitions, role-based permissions, and case history.
+- **Radar Jurídico** · Python/FastAPI backend, SQLAlchemy persistence, external data queries, and a layered query strategy.
+- **wtime** · Operational indicators and observability dashboards with BigQuery and Power BI.
+- **Levoo and Food Finder** · Technical leadership for logistics, affiliate-system, banking, and retail integrations.
+
+[What each product does and how I contributed](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md)
 
 ## Technical focus
 
@@ -31,17 +41,11 @@ I turn product requirements into software and lead the teams delivering it. My 1
 - **Engineering** · Domain modeling, automated tests, integrations, Docker, GitHub Actions.
 - **Cloud and applied AI** · AWS and GCP experience, LLM integrations and proof-of-concept evaluation.
 
-I am learning **Clojure and Scala**, with a focus on functional programming.
+## Selected education
 
-## Education and professional development
-
+- **Node.js training program** · Rocketseat.
 - Bachelor’s degree in **Game and Interactive Media Design** · Universidade Anhembi Morumbi, 2017–2020.
-- **Node.js, NestJS, DDD in Node.js** · Rocketseat, 2026.
-- **REST and Maturity Levels in Practice** · Full Cycle, 2026.
-- **Product Manager and Product Discovery** · Escola DNC, 2026.
-- **Founder Institute** · Entrepreneurship program, 2023, and Advisor Lab.
-- **Salesforce Developer training** · FIAP.
-- **Google Analytics, Data Studio, Tag Manager** · ComSchool, 2020.
+- **Founder Institute** · Entrepreneurship program and Advisor Lab.
 
 ## Em português
 
