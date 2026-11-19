@@ -1,42 +1,58 @@
-# Bruno Bisogni
+# Bruno de Araújo Bisogni
 
-**Full-stack developer · Product and technology lead · Data analysis**  
-Campinas, São Paulo, Brazil
+**Senior Software Developer · Backend & Full Stack · Tech Lead**  
+Campinas, São Paulo, Brazil · Portuguese and English
 
-I build web products and lead teams from discovery to delivery. I work across TypeScript, React, Next.js, Node.js and SQL, with a particular interest in mental health, education and social impact.
+I turn product requirements into software and lead the teams delivering it. My 12+ year career spans technology and product, with recent work across TypeScript, Python, APIs, data, and web applications. I work closely with business teams and domain specialists on healthcare, personal safety, legal data, and community products.
 
-[Portfolio in English](https://brunodevoceanoazul.github.io/portfolio/en/) · [Full-stack résumé](https://brunodevoceanoazul.github.io/portfolio/en/resume/) · [Data sample](https://brunodevoceanoazul.github.io/portfolio/en/data/) · [LinkedIn](https://www.linkedin.com/in/brunobisogni/)
+[Portfolio](https://brunodevoceanoazul.github.io/portfolio/en/) · [Résumé](https://brunodevoceanoazul.github.io/portfolio/en/resume/) · [LinkedIn](https://www.linkedin.com/in/brunobisogni/) · [Email](mailto:bruno@oceanoazul.dev.br)
 
-## Code to review
+## Products I helped build
 
-| Project | What to look at |
-| --- | --- |
-| [Daily Diet](https://github.com/brunodevoceanoazul/dailydiet-rocketseat-desafio-2) | Full-stack training project with React, TypeScript, Fastify, Knex and SQLite. The review guide points to session-scoped API queries, migrations and the React interface. |
-| [DDD — inventory domain](https://github.com/brunodevoceanoazul/DDD) | TypeScript practice with domain entities, repository interfaces and inventory use cases tested with Vitest. |
-| [Request workflow](https://github.com/brunodevoceanoazul/brunodevoceanoazul/tree/main/demonstracao) | An independent portfolio exercise with synthetic data, access checks, state transitions and tests. |
-| [SQL analysis sample](https://brunodevoceanoazul.github.io/portfolio/en/data/#sample) | Synthetic dataset, SQL query, completion-rate calculation and downloadable CSV. |
+| Product | My engineering contribution | Technologies |
+| --- | --- | --- |
+| **ÍRIS** | Founder and tech lead. Product pivot, API and web application development, data integrations, and consent workflows. [Public product update](https://www.linkedin.com/feed/update/urn:li:activity:7519461241631797248/) | TypeScript, NestJS, Next.js, Drizzle, PostgreSQL, AWS |
+| **Periscópio** | Tech lead and full-stack developer. School-to-healthcare referral workflows, forms, permissions, case history, and data modeling. [MVP write-up](https://www.linkedin.com/feed/update/urn:li:activity:7519483771901865985/) | TypeScript, Next.js, Fastify, Drizzle, PostgreSQL |
+| **HIVIUM / Sócio do Tabuleiro** | Founder and former CTO. Platform development, logistics and digital contract integrations, and architecture for the successor platform. [Beta announcement](https://www.linkedin.com/feed/update/urn:li:activity:7440522540940177408/) | React, APIs, GCP, product architecture |
+| **Radar Jurídico** | Python backend, legal data integrations, query strategy, and data modeling for an internal product. [Technical overview](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md) | Python, APIs, SQL |
+| **Oceano Azul** | Founder and tech lead. Requirements, software architecture, and development for client and own-product work. [Website](https://oceanoazul.dev.br/) | Next.js, React, TypeScript |
 
-The first two repositories are forks of personal projects from my [BrunoBDevOceanoAzul account](https://github.com/BrunoBDevOceanoAzul). Their original commit history and contribution links are preserved.
+[Read the technical case studies](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md)
 
-## Selected professional work
+## Engineering portfolio
 
-| Project | Contribution and public technical overview |
-| --- | --- |
-| **Periscópio** | Full-stack work on school-to-health referral workflows, forms and role-based access. Public stack overview includes TypeScript, Next.js, Fastify and PostgreSQL. [Public MVP write-up](https://www.linkedin.com/feed/update/urn:li:activity:7519483771901865985/) |
-| **ÍRIS** | Founder. Product discovery, a shift in product direction and user experience design. Public stack overview includes NestJS, Next.js, PostgreSQL and Docker. [Public project write-up](https://www.linkedin.com/feed/update/urn:li:activity:7519461241631797248/) |
-| **Sócio do Tabuleiro / HIVIUM** | Founder, product lead and former CTO. Technical leadership, platform development and logistics and contract integrations. Public technical overview includes React and APIs. [Public beta announcement](https://www.linkedin.com/feed/update/urn:li:activity:7440522540940177408/) |
-| **wtime** | Senior Customer Insights Analyst. Observability indicators and dashboards with BigQuery and Power BI. [Professional background](https://oceanoazul.dev.br/) |
+[Complete source of this bilingual portfolio](https://github.com/brunodevoceanoazul/portfolio) · [Product engineering cases](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md)
 
-Professional entries link to public case material. The runnable code above comes from personal projects or independent exercises.
+## Technical focus
+
+- **Backend** · TypeScript, Python, Node.js, NestJS, Fastify, REST APIs.
+- **Data** · SQL, PostgreSQL, Drizzle, Prisma, BigQuery, Power BI.
+- **Frontend** · React, Next.js, JavaScript, HTML, CSS.
+- **Engineering** · Domain modeling, automated tests, integrations, Docker, GitHub Actions.
+- **Cloud and applied AI** · AWS and GCP experience, LLM integrations and proof-of-concept evaluation.
+
+I am learning **Clojure and Scala**, with a focus on functional programming.
+
+## Education and professional development
+
+- Bachelor’s degree in **Game and Interactive Media Design** · Universidade Anhembi Morumbi, 2017–2020.
+- **Node.js, NestJS, DDD in Node.js** · Rocketseat, 2026.
+- **REST and Maturity Levels in Practice** · Full Cycle, 2026.
+- **Product Manager and Product Discovery** · Escola DNC, 2026.
+- **Founder Institute** · Entrepreneurship program, 2023, and Advisor Lab.
+- **Salesforce Developer training** · FIAP.
+- **Google Analytics, Data Studio, Tag Manager** · ComSchool, 2020.
+
+## Em português
+
+Sou desenvolvedor de software sênior e tech lead. Minha experiência reúne implementação full stack, APIs, integrações, análise de dados e liderança de equipes. Na Oceano Azul, trabalho desde a definição do problema até a entrega de software, com atuação em produtos de saúde mental, segurança pessoal, jurídico e comunidades.
+
+**Busco oportunidades em desenvolvimento sênior backend ou full stack e liderança técnica.** Moro em Campinas e tenho interesse em trabalho híbrido em Campinas ou São Paulo e em oportunidades remotas.
+
+[Currículo em português](https://brunodevoceanoazul.github.io/portfolio/pt/curriculo/) · [Produtos desenvolvidos](https://brunodevoceanoazul.github.io/portfolio/pt/projetos/) · [Freelance](https://brunodevoceanoazul.github.io/portfolio/pt/freelance/)
 
 ## Awards and press
 
 [Team awards and technical context](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/premios.md) · [Bilingual press timeline](https://brunodevoceanoazul.github.io/portfolio/en/press/)
 
-## Em português
-
-Sou desenvolvedor full stack e líder de produto e tecnologia. Minha trajetória reúne desenvolvimento web, integrações, liderança técnica e análise de dados. Hoje quero aplicar essa experiência a produtos de saúde mental, educação e impacto social.
-
-[Portfólio](https://brunodevoceanoazul.github.io/portfolio/pt/) · [Currículo](https://brunodevoceanoazul.github.io/portfolio/pt/curriculo/) · [Projetos e prêmios](https://brunodevoceanoazul.github.io/portfolio/pt/clipping/) · [Freelance](https://brunodevoceanoazul.github.io/portfolio/pt/freelance/)
-
-**Contato profissional** · [bruno@oceanoazul.dev.br](mailto:bruno@oceanoazul.dev.br)
+**Contact** · [bruno@oceanoazul.dev.br](mailto:bruno@oceanoazul.dev.br)
