@@ -5,9 +5,9 @@ A technical overview of my role in the products presented in my portfolio. Each 
 ## ÍRIS
 
 **Role** · Founder and tech lead.  
-**Stack** · TypeScript, NestJS, Next.js, Drizzle ORM, PostgreSQL, AWS.
+**Stack** · TypeScript, NestJS modular monolith, Next.js, Drizzle ORM, PostgreSQL, AWS.
 
-I helped redirect the product toward personal safety for women and worked on the implementation across API, web application, integrations, and consent workflows. The product connects individual actions with a trusted contact network.
+I helped redirect the product toward personal safety for women and worked on the implementation across a modular NestJS monolith, web application, integrations, and consent workflows. NestJS modules compose the backend application, organizing responsibilities within one deployable application. The product connects individual actions with a trusted contact network.
 
 In an engineering interview, I can discuss service boundaries, integration failure handling, permissions, data minimization, and the distinction between a user's action and a background workflow. Any demonstration should use a separate environment with synthetic records.
 
@@ -18,7 +18,7 @@ In an engineering interview, I can discuss service boundaries, integration failu
 ## Periscópio
 
 **Role** · Tech lead and full-stack developer, since November 2025.  
-**Current application stack** · TypeScript, Next.js, Fastify, Drizzle ORM, PostgreSQL.
+**Current application stack** · TypeScript, Next.js, Fastify monolith, Drizzle ORM, PostgreSQL.
 
 I lead engineering and implement workflows that connect school observations with healthcare referrals. My work includes forms, role-based permissions, case history, and data modeling. The MVP has been described publicly as being in internal validation with professionals.
 
@@ -44,7 +44,7 @@ Relevant interview topics include deciding between building and integrating, man
 ## Radar Jurídico
 
 **Role** · Backend and data engineering in an internal product.  
-**Technical scope** · Python, APIs, SQL, data modeling, query strategy.
+**Technical scope** · Python, FastAPI, SQLAlchemy, PostgreSQL, APIs, data modeling, query strategy.
 
 My work includes legal data integrations and a layered query approach for managing paid data-provider usage. Engineering tradeoffs include reuse of available information, handling provider errors, and retaining query traceability.
 
@@ -63,14 +63,40 @@ My consultancy brings together software delivery and product work. My experience
 
 [Website](https://oceanoazul.dev.br/)
 
-## Sauvia
+## Dashboards · wtime
 
-**Role** · Architecture and product foundation.  
-**Contribution** · Architecture proposal, MVP backlog, screen flows, business model, and B2B funnel design.
+**Role** · Senior Customer Insights Analyst, 2022–2023.  
+**Stack** · SQL, BigQuery, Power BI.
 
-This case represents technical and product planning. In an interview, I can explain the requirements and architectural choices made during the foundation phase.
+Built observability dashboards and metrics. The work demonstrates defining indicators, preparing data for analysis, and presenting operational information to business teams.
 
-**Em português** · Minha atuação na etapa de base envolveu arquitetura, backlog, fluxos e modelo de negócio, conforme meu currículo.
+**Em português** · Construí dashboards e indicadores de observabilidade com BigQuery e Power BI.
+
+## Levoo · Logistics integrations
+
+**Role** · CTO, 2019–2020.
+
+Led the affiliate-system project and integration with a bank’s delivery-related systems. This case demonstrates integration design, coordination with external teams, and technical delivery leadership.
+
+**Em português** · Liderei o projeto do sistema de afiliados e a integração com sistemas de um banco.
+
+## Food Finder · Retail integration
+
+**Role** · CTO, 2019.
+
+Designed an integration with a retail group and managed the implementation team. The relevant engineering experience is integration architecture and coordination of delivery across organizations.
+
+**Em português** · Desenhei a integração com uma rede de varejo e gerenciei sua implementação.
+
+## Social Ball · Digital product
+
+**Role** · Technical leadership at ABCE Service, 2014–2016.
+
+Led the technical team associated with the digital product and the transition from offline to online channels.
+
+**Em português** · Liderei o time técnico ligado ao Social Ball e à transição dos canais offline para online.
+
+[Public project background](https://oceanoazul.dev.br/)
 
 ## Engineering portfolio
 
