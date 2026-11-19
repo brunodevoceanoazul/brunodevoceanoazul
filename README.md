@@ -11,10 +11,10 @@ I turn product requirements into software and lead the teams delivering it. My 1
 
 | Product | My engineering contribution | Technologies |
 | --- | --- | --- |
-| **ÍRIS** | Founder and tech lead. Product pivot, Development of a modular NestJS monolith, web application, data integrations, and consent workflows. [Public product update](https://www.linkedin.com/feed/update/urn:li:activity:7519461241631797248/) | TypeScript, NestJS, Next.js, Drizzle, PostgreSQL, AWS |
+| **ÍRIS** | Founder and tech lead. Product pivot, development of a modular NestJS monolith, web application, data integrations, and consent workflows. [Public product update](https://www.linkedin.com/feed/update/urn:li:activity:7519461241631797248/) | TypeScript, NestJS, Next.js, Drizzle, PostgreSQL, AWS |
 | **Periscópio** | Tech lead and full-stack developer. School-to-healthcare referral workflows, forms, permissions, case history, and data modeling. [MVP write-up](https://www.linkedin.com/feed/update/urn:li:activity:7519483771901865985/) | TypeScript, Next.js, Fastify monolith, Drizzle, PostgreSQL |
 | **HIVIUM / Sócio do Tabuleiro** | Founder and former CTO. Platform development, logistics and digital contract integrations, and architecture for the successor platform. [Beta announcement](https://www.linkedin.com/feed/update/urn:li:activity:7440522540940177408/) | React, APIs, GCP, product architecture |
-| **Radar Jurídico** | Python backend, legal data integrations, query strategy, and data modeling for an internal product. [Technical overview](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md) | Python, FastAPI, SQLAlchemy, PostgreSQL |
+| **Radar Jurídico** | Collaborative product work and integration of team deliveries for a Python legal-data product. [Technical overview](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md) | Python, FastAPI, SQLAlchemy, PostgreSQL |
 | **Oceano Azul** | Founder and tech lead. Requirements, software architecture, and development for client and own-product work. [Website](https://oceanoazul.dev.br/) | Next.js, React, TypeScript |
 
 [Read the technical case studies](https://github.com/brunodevoceanoazul/brunodevoceanoazul/blob/main/produtos.md)
@@ -25,9 +25,9 @@ I turn product requirements into software and lead the teams delivering it. My 1
 
 ## Implementation experience
 
-- **ÍRIS** · A modular NestJS monolith composed of application modules, a Next.js web interface, persistence, permissions, and data integrations.
-- **Periscópio** · A Fastify backend monolith supporting digital forms, case transitions, role-based permissions, and case history.
-- **Radar Jurídico** · Python/FastAPI backend, SQLAlchemy persistence, external data queries, and a layered query strategy.
+- **ÍRIS** · Modular NestJS backend, Next.js application, domain/infrastructure separation, transactional persistence, and integration adapters.
+- **Periscópio** · Fastify backend with case state machines, role normalization, PostgreSQL transactions, concurrent-transition handling, and regression tests.
+- **Radar Jurídico** · Collaborative product work with a Python/FastAPI and SQLAlchemy backend; the implementation includes provider adapters, caching, and query traceability.
 - **wtime** · Operational indicators and observability dashboards with BigQuery and Power BI.
 - **Levoo and Food Finder** · Technical leadership for logistics, affiliate-system, banking, and retail integrations.
 
