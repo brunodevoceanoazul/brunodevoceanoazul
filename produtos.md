@@ -9,7 +9,7 @@ A technical overview of my role in the products presented in my portfolio. Each 
 
 I helped redirect the product toward personal safety for women and worked on the implementation across a modular NestJS monolith, web application, integrations, and consent workflows. NestJS modules compose the backend application, organizing responsibilities within one deployable application. The product connects individual actions with a trusted contact network.
 
-In an engineering interview, I can discuss service boundaries, integration failure handling, permissions, data minimization, and the distinction between a user's action and a background workflow. Any demonstration should use a separate environment with synthetic records.
+The implementation separates domain contracts from infrastructure adapters and uses relational transactions to persist related records together. Tests exercise successful operations and failure paths. In an engineering interview, I can discuss service boundaries, integration failure handling, permissions, and data minimization. Any demonstration should use a separate environment with synthetic records.
 
 **Em português** · Atuei na mudança de foco do produto e na implementação de API, interface web, integrações e fluxos de consentimento. Posso apresentar decisões de organização do código e tratamento de falhas com exemplos independentes.
 
@@ -22,7 +22,7 @@ In an engineering interview, I can discuss service boundaries, integration failu
 
 I lead engineering and implement workflows that connect school observations with healthcare referrals. My work includes forms, role-based permissions, case history, and data modeling. The MVP has been described publicly as being in internal validation with professionals.
 
-The engineering discussion focuses on workflow transitions, the information each role needs, maintaining case history, and validating software with domain specialists.
+A concrete technical case is a change attributed to my account that normalizes role names before state-machine validation and handles conflicting transitions with database transactions and conditional updates. Related regression tests cover authorization and concurrent operations. I can explain the failure scenario, the correction, and the limits of the validation.
 
 **Em português** · Lidero a engenharia e desenvolvo o fluxo entre escola e saúde. O escopo inclui formulários, permissões, histórico e modelo de dados. A implementação atual da API usa Node.js com Fastify e TypeScript.
 
@@ -46,9 +46,9 @@ Relevant interview topics include deciding between building and integrating, man
 **Role** · Backend and data engineering in an internal product.  
 **Technical scope** · Python, FastAPI, SQLAlchemy, PostgreSQL, APIs, data modeling, query strategy.
 
-My work includes legal data integrations and a layered query approach for managing paid data-provider usage. Engineering tradeoffs include reuse of available information, handling provider errors, and retaining query traceability.
+This is a collaborative product: recent implementation history includes substantial contributions by another developer. My portfolio distinguishes product participation and integration of team deliveries from individual implementation authorship. The reviewed backend contains provider adapters, query caching, historical records, and cost controls; these describe the project architecture, not a claim that I authored every component.
 
-**Em português** · Trabalho em backend Python e integrações jurídicas, com estratégia de consulta em camadas, modelagem e rastreabilidade. A descrição pública cobre o tipo de problema e as ferramentas utilizadas.
+**Em português** · Atuação colaborativa no produto e na integração das entregas. O código do projeto demonstra backend Python, cache e integração de provedores; a autoria de cada implementação deve ser atribuída pelo histórico de contribuição.
 
 [Professional background](https://www.linkedin.com/in/brunobisogni/)
 
